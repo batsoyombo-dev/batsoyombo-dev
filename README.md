@@ -5,7 +5,8 @@
 ---
 <div align="center">
   
-# 📍 I am an young developer who is based in Ulaanbaatar, Mongolia
+# About Me
+  📍 I am an young developer who is based in Ulaanbaatar, Mongolia
   🔍 I am interested in seeking the prominent solutions for all the problems in the world.
 
 
