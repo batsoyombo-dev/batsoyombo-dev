@@ -5,6 +5,8 @@
 ---
 <div align="center">
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batsoyombo-dev)](https://github.com/anuraghazra/github-readme-stats)
+  
 # About Me
   📍 I am an young developer who is based in Ulaanbaatar, Mongolia <br/>
   🔍 I am interested in seeking the prominent solutions for all the problems in the world. <br/>
