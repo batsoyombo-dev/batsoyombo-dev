@@ -20,5 +20,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?theme=radical&hide_border=false&user=batsoyombo-dev)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&username=batsoyombo-dev)
 
-![](https://komarev.com/ghpvc/?username=batsoyombo-dev&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?label=Visitors+Count&color=brightgreen&username=batsoyombo-dev)
 </div>
