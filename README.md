@@ -5,22 +5,8 @@
 ---
 <div align="center">
   
-# 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+# 📍 I am an young developer who is based in Ulaanbaatar, Mongolia
+  🔍 I am interested in seeking the prominent solutions for all the problems in the world.
 
 
 ## 🌐Socials
