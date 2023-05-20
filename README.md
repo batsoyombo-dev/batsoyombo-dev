@@ -9,7 +9,6 @@
   📍 I am an young developer who is based in Ulaanbaatar, Mongolia <br/>
   🔍 I am interested in seeking the prominent solutions for all the problems in the world. <br/>
 
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batsoyombo/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/justsomebodyorsomeone/)
