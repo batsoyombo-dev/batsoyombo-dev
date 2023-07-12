@@ -43,10 +43,5 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?theme=radical&hide_border=false&include_all_commits=true&count_private=true&username=batsoyombo-dev)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?theme=radical&hide_border=false&user=batsoyombo-dev)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&username=batsoyombo-dev)
 
-![](https://komarev.com/ghpvc/?label=Visitors+Count&color=brightgreen&username=batsoyombo-dev)
 </div>
